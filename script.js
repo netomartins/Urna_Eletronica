@@ -106,14 +106,13 @@ function confirma() {
     votoConfirmado = true;
     votos.push({
       etapa: etapas[etapaAtual].titulo,
-      voto: 'branco'
+      voto: 'branco',
     });
-
   } else if (numero.length === etapa.numeros) {
     votoConfirmado = true;
     votos.push({
       etapa: etapas[etapaAtual].titulo,
-      voto: numero
+      voto: numero,
     });
   }
 
@@ -122,13 +121,13 @@ function confirma() {
     if (etapas[etapaAtual] !== undefined) {
       comecarEtapa();
     } else {
-      document.querySelector('.tela').innerHTML = `<div class="aviso--gigante pisca">FIM!</div>`;
+      document.querySelector(
+        '.tela'
+      ).innerHTML = `<div class="aviso--gigante pisca">FIM!</div>`;
+
       console.log(votos);
-      
-      }
-      
     }
   }
-
+}
 
 comecarEtapa();

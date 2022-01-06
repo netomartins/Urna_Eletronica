@@ -1,0 +1,60 @@
+[33mcommit f21472040636ea480b5a411170b56506b7302446[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Neto Martins <netomartins2@hotmail.com>
+Date:   Thu Jan 6 00:39:49 2022 -0300
+
+    chore: Salvando o voto e finalizando
+
+[33mcommit fd08ff579e067ef2bb95358d670a39b84a426bf8[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Neto Martins <netomartins2@hotmail.com>
+Date:   Thu Jan 6 00:21:22 2022 -0300
+
+    ativando os botoes corrige, confirma e branco
+
+[33mcommit 9776106646ed0c8f51def08b3bbe890f2e7a0782[m
+Author: Neto Martins <netomartins2@hotmail.com>
+Date:   Wed Jan 5 23:42:11 2022 -0300
+
+    Identificando o candidato, e configurando o voto nulo
+
+[33mcommit b97c0f050829a4e6ee56647483085c7e68c2a3bd[m
+Merge: eb15946 312b15b
+Author: Neto Martins <netomartins2@hotmail.com>
+Date:   Wed Jan 5 22:44:13 2022 -0300
+
+    Merge branch 'master' of https://github.com/netomartins/Urna_Eletronica
+
+[33mcommit eb159469e4bf4192d47f7373621cf137fd835f84[m
+Author: Neto Martins <netomartins2@hotmail.com>
+Date:   Wed Jan 5 22:43:23 2022 -0300
+
+    chore: preenchendo a interface com numeros
+
+[33mcommit 312b15baa1459e7e1d6962d1f4c2561ec07ae658[m
+Author: Neto Martins <netomartins2@hotmail.com>
+Date:   Tue Jan 4 21:59:17 2022 -0300
+
+    Update README.md
+
+[33mcommit 5269f67ace16b48c4df69db53cb8ad7bfd2eeb0f[m
+Author: Neto Martins <netomartins2@hotmail.com>
+Date:   Tue Jan 4 21:57:06 2022 -0300
+
+    Create README.md
+
+[33mcommit d934113c78e2ad6cec90bb2d6dfd5c3a10b8bf12[m
+Author: Neto Martins <netomartins2@hotmail.com>
+Date:   Tue Jan 4 21:53:19 2022 -0300
+
+    chore: Controles da area de tela
+
+[33mcommit 14a4a00e43d51900b70af8ef82e08a0e7ac3cb88[m
+Author: Neto Martins <netomartins2@hotmail.com>
+Date:   Tue Jan 4 21:19:05 2022 -0300
+
+    chore: finalizando o visual
+
+[33mcommit 0ae42df343637d343725b7b7b453354b22f2ddc3[m
+Author: Neto Martins <netomartins2@hotmail.com>
+Date:   Tue Jan 4 17:21:20 2022 -0300
+
+    chore: iniciando o projeto
